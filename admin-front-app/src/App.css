@@ -1,0 +1,76 @@
+/* .App { */
+  /* height: 100%; */
+  /* display: flex;
+  flex-direction: column; */
+/* } */
+
+.App .topBtns button {
+  background-color: rgb(209, 70, 70);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.App .topBtns button:hover {
+  background-color: #f09993;
+  cursor: pointer;
+}
+
+.App .leftColumn {
+  background-color: rgb(209, 70, 70);
+  width: 300px;
+  float: left;
+  height: 1100px;
+  padding-left: 25px;
+  text-align: left;
+  color: white;
+  /* padding-right: 20px; */
+  /* flex: 1; */
+}
+
+.App .analytics {
+  padding-left: 300px;
+  float: left;
+}
+.App .movieEdit {
+  padding-left: 20px;
+}
+.App .movieEdit ul {
+  list-style-type: none;
+}
+.App .movieEdit li:hover {
+  cursor: pointer;
+}
+.App .movieEdit p {
+  padding-left: 300px;
+  font-size: 22px;
+  color: rgb(44, 31, 224);
+  text-decoration: underline;
+}
+.App .movieEdit .editing input {
+  height: 30px;
+}
+
+.App .userEdit {
+  padding-left: 300px;
+}
+.App .userEdit .userInfo ul {
+  list-style-type: none;
+}
+.App .userEdit .userInfo li {
+  font-size: 20px;
+  text-align: center;
+  display: inline-block;
+}
+
+.App .userEdit .reviewInfo .reviewEdit {
+  padding-left: 70px;
+  font-size: 20px;
+}
+.App .userEdit .reviewInfo .reviewEdit li {
+  padding-top: 10px;
+  /* font-size: 20px; */
+}

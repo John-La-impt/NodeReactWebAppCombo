@@ -1,0 +1,27 @@
+{
+  "name": "middle-app",
+  "version": "1.0.0",
+  "description": "middle app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "sequelize",
+    "mysql",
+    "rest",
+    "api"
+  ],
+  "author": "johnla",
+  "license": "ISC",
+  "dependencies": {
+    "argon2": "^0.31.2",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.14.1",
+    "sequelize": "^6.33.0"
+  }
+}

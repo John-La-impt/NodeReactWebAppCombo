@@ -1,5 +1,5 @@
 # Node and React Apps Combo
-### Demo video link: https://drive.google.com/file/d/13nqZMyxiXId0MjHw_NKjuWZX5D67OOr9/view?usp=sharing
+### Demo video: https://drive.google.com/file/d/13nqZMyxiXId0MjHw_NKjuWZX5D67OOr9/view?usp=sharing
 -------------------------------------
 # 1. User Targeted Website
 Front and middle app produce a website that represent what a typical user would see. This portal allows a user to view movies and their sessions, sign up/in, reserve tickets (seats) when signed in, and leave reviews on movies.

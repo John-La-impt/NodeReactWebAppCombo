@@ -12,7 +12,8 @@ A React app that displays the data queried from middle app. Implemented with foc
 
 ### 1.2 Middle App
 A Node-Express app that handles communication with a SQL database. Mapped using Sequelize, send requests and receive .json using REST API. The middle app provides routes for the front app to query and receive the data.
-------------------------------------
+-------------------------------------
+-------------------------------------
 
 ## 2. Admin Targeted Website
 Admin front and admin middle app produce a website that represent what a admin user would see. This portal allows an admin to view some analytics, edit users and movie entries.

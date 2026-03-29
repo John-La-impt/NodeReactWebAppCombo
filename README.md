@@ -1,6 +1,8 @@
 # Node and React Apps Combo
 ### Demo video: https://drive.google.com/file/d/13nqZMyxiXId0MjHw_NKjuWZX5D67OOr9/view?usp=sharing
+
 -------------------------------------
+
 # 1. User Targeted Website
 Front and middle app produce a website that represent what a typical user would see. This portal allows a user to view movies and their sessions, sign up/in, reserve tickets (seats) when signed in, and leave reviews on movies.
 
@@ -11,6 +13,8 @@ A React app that displays the data queried from middle app. Implemented with foc
 
 ## 1.2. Middle App
 A Node-Express app that handles communication with a SQL database. Mapped using Sequelize, send requests and receive .json using REST API. The middle app provides routes for the front app to query and receive the data.
+
+-------------------------------------
 
 # 2. Admin Targeted Website
 Admin front and admin middle app produce a website that represent what a admin user would see. This portal allows an admin to view some analytics, edit users and movie entries.
